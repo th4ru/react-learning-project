@@ -1,0 +1,24 @@
+# React Learning Project 🎯
+
+This is a simple React project created as part of my self-learning journey using YouTube tutorials. It helps me understand the fundamentals of React including components, props, state, and hooks.
+
+## 🚀 Technologies Used
+
+- React
+- JavaScript
+- Vite / Create React App (depending on your setup)
+- CSS
+
+## 📂 Project Structure
+src/ ├── components/ │ └── MovieCard.jsx ├── pages/ │ └── Home.jsx ├── App.jsx └── main.jsx
+
+## 🧠 What I Learned
+
+- JSX basics
+- Functional components
+- Passing props
+- Rendering lists with `.map()`
+- Using `useState` and `useEffect`
+- Basic routing (if applicable)
+
+
